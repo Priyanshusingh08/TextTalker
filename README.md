@@ -1,4 +1,4 @@
-# zoom-clone-2.0
+# TextTalker
 
 ## Features
 - Inro page (Host a meeting or join a meeting page)
@@ -15,7 +15,6 @@ https://user-images.githubusercontent.com/66161239/125756026-ae72e99b-171a-4155-
 - Windows
 
 ## How to run
-- git clone https://github.com/harsh317/zoom-clone-2.0.git
 - cd zoom-clone-2.0
 - npm server.js
 - Go to LocalHost:3030
